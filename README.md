@@ -2,23 +2,28 @@ DISCLAIMER THIS IS SOURCE CODE EXE VERSION IS AT https://imjustaguy96.itch.io/ar
 
 Arcade Flashback Classics
 
-A retro arcade collection, called Arcade Flashback Classics, following the journey of three classic games packed together in one program. Join the fun on this adventure as you battle aliens, guide your snake, and flap through the sky to conquer every retro challenge.Imade this for Terra theme was antique and i love old games like flappy bird so this inspired me.made in pygame in vscode compiled with pyinstaller into one exe
+A retro arcade collection, called Arcade Flashback Classics, following the journey of three classic games packed together in one program. Join the fun on this adventure as you battle aliens, guide your snake, and flap through the sky to conquer every retro challenge.I made this for when Terra theme was antique and i love old games like flappy bird so this inspired me.made in pygame in vscode compiled with pyinstaller into one exe
 
 Installation Instructions
 
-Extract the arcade-project.zip file on your computer.
+Extract the arcade-main.zip file on your computer.
 
-<img width="1917" height="1078" alt="Screenshot 2026-11-02 111018" src="https://github.com/user-attachments/assets/b940b192-6a94-4a14-b485-052a7b239fab" />
+<img width="1553" height="1026" alt="Screenshot 2026-11-20 191708" src="https://github.com/user-attachments/assets/473b1f4e-db63-45d1-83e4-bdf1378c1207" />
 
 
-Open the platformer-project folder.
+Open the arcade-main folder.
 
-<img width="1917" height="1078" alt="Screenshot 2026-11-02 111134" src="https://github.com/user-attachments/assets/68ad5786-0f25-44ee-aa74-15220fcd562b" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/350e360f-57e3-4d70-9c0c-7058cfbc7844" />
+
+Inside the arcade-main folder double click the arcade-main folder(don't get confused the first one is in downloads the second is inside of the first one i dont know how to structure a repo ok sorry i can't fix the folder inside folder)
+
+<img width="1544" height="845" alt="Screenshot 2026-11-20 192120" src="https://github.com/user-attachments/assets/41f5ba42-0924-4b1f-9990-cb5e7fbdc70f" />
+
+
 
 
 Double-click menu.py to launch the arcade hub and start playing instantly!
 
-<img width="1917" height="1078" alt="Screenshot 2026-11-02 111211" src="https://github.com/user-attachments/assets/61ae0376-9fa4-4b26-937c-cf44c3f2f544" />
 
 
 
