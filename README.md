@@ -24,7 +24,10 @@ Inside the arcade-main folder double click the arcade-main folder(don't get conf
 
 Double-click menu.py to launch the arcade hub and start playing instantly!
 
+<img width="1917" height="1078" alt="Screenshot 2026-11-20 192615" src="https://github.com/user-attachments/assets/f3c95123-7c7b-4367-9d12-97da533d3421" />
 
+
+REMEMBER THIS IS SOURCE CODE INSTRUCTIONS
 
 
 ## Game Controls
